@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+const name = ["iqbal","akbar","dimas"];
+
 // bikin folder views untuk file ejs 
 app.set('view engine','ejs');
 
