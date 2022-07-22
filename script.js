@@ -20,5 +20,5 @@ app.listen(port,() => {
 })
 
 console.log('hello world');
-console.log('ini merupakan fitur unggulan');
+console.log('ini baru asli');
 console.log('kalau tidak percaya tanya aja sama pak aji')
